@@ -112,7 +112,6 @@ This restricted scope is intentional and consistent with Assignment 4, which req
 3. Run the component-test command above and capture its output.
 4. Include a table for each test showing input, expected outcome, actual outcome, and pass/fail status.
 5. Record actual bugs fixed and remaining limitations. Do not report planned or unexecuted tests as passing.
-6. Add the **actual publicly accessible GitHub repository URL** to both the PDF and this README before submission.
 
 ## Source layout
 
