@@ -30,8 +30,6 @@ mvn -version
 mvn clean test
 ```
 
-**Replace the placeholder clone URL with your team's actual GitHub URL after uploading this project.** The command you should capture for the Assignment 4 report is `mvn clean test`.
-
 Expected after a successful run:
 
 ```text
